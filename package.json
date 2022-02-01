@@ -1,0 +1,13 @@
+{
+  "name": "net-browserify",
+  "version": "0.0.1",
+  "description": "net-browserify demo",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "net-browserify": "^0.2.4",
+    "express": "^4.17.2"
+  }
+}
